@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/mintic ciclo3"
+		},
+		{
+			"path": "../../../../Documents/Proyecto Finalizado-1/Proyecto Finalizado-1"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/CRUD_USUARIOS_ESTUDIANTES/crud_estudiantes_app"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/PlataformaGestiondeVuelos-main"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/Pagina-Web_Aerolinea-main"
+		},
+		{
+			"path": "../../../../Documents/proyecto- mintic"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/desarolloweb2"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/Estudiante"
+		},
+		{
+			"path": "../../../portfolio-nick-main"
+		},
+		{
+			"path": "../../../Ciclo3-2095-master/Ciclo3-2095-master"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Documents/app _ flask"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio-nick-main",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
